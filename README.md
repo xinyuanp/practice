@@ -1,2 +1,2 @@
 # practice
-pythn/R daily practice 
+python/R daily practice 
